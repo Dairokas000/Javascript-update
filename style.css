@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    border: gold 5px outset;
+    background-color: black;
+    color: gold;
+}
+
+.TLOU img{
+    width: 200px;
+    height: fit-content;
+    float: left;
+    margin-right: 2%;
+    border: gold 5px outset;
+}
+
+.TLOU p{
+    font-size:large;
+    color: gold;
+}
+
+.TLOU h3{
+    color: gold;
+}
+
+.TLOU h5{
+    color: gold;
+}
+
+
+.DaysGone img{
+    width: 200px;
+    height: fit-content;
+    float: right;
+    margin-left: 5%;
+    border: gold 5px outset;
+
+}
+
+.DaysGone h3{
+    float:right;
+    color: gold;
+
+}
+
+
+.DaysGone h5{
+    text-align: right;
+    color: gold;
+}
+
+.DaysGone p{
+    color: gold;
+}
+
+.TLOUInfo img{
+    width: 400px;
+    height: fit-content;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    border: gold 5px outset;
+    place-items: center;
+    float: left;
+
+}
+
+.TLOUInfo p{
+    font-size: large;
+    color: gold;
+}
+
+.TLOUInfo h1{
+    overflow: scroll;
+    color: gold;
+}
+
+.TLOUInfo h2{
+    color: gold;
+}
+
+.DSGInfo img{
+    width: 700px;
+    height: fit-content;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    border: gold 5px outset;
+    place-items: center;
+    float: left;
+
+
+}
+
+.DSGInfo p{
+    color: gold;
+}
+
+.DSGInfo h3{
+    color: gold;
+}
+
+.Gallery img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: fit-content;
+}
+
+.Gallery h2{
+    text-align: center;
+    background-color: black;
+    border: gold 5px outset;
+    color: gold;
+}
+
+a{
+    color: gold;
+}
